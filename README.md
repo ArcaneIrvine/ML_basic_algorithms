@@ -1,2 +1,2 @@
 # Basic machine learning algorithms
-Basic machine learning algorithms implemented in python with examples and comments.
+Basic machine learning algorithms implemented in jupyter notebook with examples and comments.
